@@ -14,5 +14,5 @@
 
 # Инструменты
 
-- Gemini: подключается через `GEMINI_API_KEY` в переменных окружения + домен `generativelanguage.googleapis.com` в Allowed domains. Пока не подключён.
+- Gemini: пользователь решил не подключать. Не предлагать.
 - Погода: нужен домен `api.open-meteo.com` в Allowed domains. Пока не разрешён. Город по умолчанию — Иркутск.
